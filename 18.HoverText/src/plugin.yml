@@ -1,9 +1,0 @@
-name: hovertext
-author: kaua
-description: Hover Text
-version: 1.0
-api-version: 1.16
-main: kaua.studies.hovertext.Main
-
-commands:
-  help:

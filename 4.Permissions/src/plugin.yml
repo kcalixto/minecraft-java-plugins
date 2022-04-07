@@ -1,9 +1,0 @@
-name: permissions_mclovin
-author: kaua
-description: mc lovin tutorial about permissions
-version: 1.0
-api-version: 1.16
-main: kaua.studies.permissions.Main
-permissions:
-  adm.permission:
-    description: aumenta o tamanho do pau

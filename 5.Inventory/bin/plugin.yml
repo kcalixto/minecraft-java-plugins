@@ -1,9 +1,0 @@
-name: inventory
-version: 1.0
-api-version: 1.16
-author: kaua
-description: inventory fck off
-main: kaua.studies.inventory.Main
-
-commands:
-  gui:

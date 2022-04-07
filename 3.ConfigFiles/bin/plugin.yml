@@ -1,6 +1,0 @@
-name: configfiles
-author: kaua
-description: config files tutorial
-version: 1.0
-api-version: 1.16
-main: kaua.studies.configtutorial.ConfigurationPlugin

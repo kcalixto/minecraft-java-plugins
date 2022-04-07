@@ -1,6 +1,0 @@
-name: silkspawner
-author: kaua
-description: Silk spawner
-version: 1.0
-api-version: 1.16
-main: kaua.studies.silkspawner.Main

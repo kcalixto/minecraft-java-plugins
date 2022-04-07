@@ -1,6 +1,0 @@
-name: customplayerdrop
-author: kaua
-description: custom player drops plugin
-version: 1.0
-api-version: 1.16
-main: kaua.studies.customplayerdrop.Main
