@@ -1,0 +1,6 @@
+name: tntlauncher
+author: kaua
+description: tnt launcher plugin 
+version: 1.0
+api-version: 1.16
+main: kaua.studies.tntlauncher.Main

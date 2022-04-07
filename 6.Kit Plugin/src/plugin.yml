@@ -1,0 +1,10 @@
+name: kit
+author: kaua
+description: kit plugin mc lovin tutorial
+version: 1.0
+api-version: 1.16
+main: kaua.studies.kitplugin.Main
+
+commands:
+  kit:
+    description: create or give a certain kit to a player

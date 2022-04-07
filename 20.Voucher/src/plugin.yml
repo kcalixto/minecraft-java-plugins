@@ -1,0 +1,10 @@
+name: voucher
+author: kaua
+description: Voucher plugin
+version: 1.0
+api-version: 1.16
+main: kaua.studies.voucher.VouchersPlugin
+
+commands:
+  withdraw:
+    description: withdraw some money

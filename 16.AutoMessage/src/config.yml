@@ -1,0 +1,7 @@
+interval: 2
+random: true
+messages:
+  - "Hey There!"
+  - "You are beautiful"
+  - "Go away stinky!"
+  - "Hi, ugly." 

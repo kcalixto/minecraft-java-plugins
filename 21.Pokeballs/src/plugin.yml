@@ -1,0 +1,6 @@
+name: pokeballs
+author: kaua
+description: pokeballs plugin
+version: 1.0
+api-version: 1.16
+main: kaua.studies.pokeballs.Main
