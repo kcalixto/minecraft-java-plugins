@@ -1,0 +1,10 @@
+name: GUI
+version: 1.0
+api-version: 1.16
+author: kaua
+main: kaua.studies.gui.Main
+description: First GUI plugin
+
+commands:
+  gui:
+    description: gui starter command

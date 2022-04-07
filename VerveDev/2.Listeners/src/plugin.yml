@@ -1,0 +1,5 @@
+name: Listeners
+version: 1.0
+author: kaua
+main: kaua.studies.listeners.Main
+description: My first Minecraft Spigott plugin with Listeners

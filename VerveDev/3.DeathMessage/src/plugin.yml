@@ -1,0 +1,5 @@
+name: DeathListener
+version: 1.0
+author: kaua
+main: kaua.studies.deathmessage.Main
+description: My first Minecraft Spigott Death Plugin

@@ -1,0 +1,6 @@
+console_error_message: '&8[&c*&8] &cVocê não pode executar esse comando...'
+
+#FlyCommand Below
+FlyCommand:
+  flying_enabled: "&7[&2*&7]&2Fly ligado"
+  flying_disabled: "&7[&4*&7]&4Fly desligado"

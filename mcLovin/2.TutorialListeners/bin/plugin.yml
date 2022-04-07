@@ -1,0 +1,6 @@
+name: loginlisteners
+version: 1.0
+api-version: 1.16
+author: kaua
+description: mclovin listeners tutorial
+main: kaua.studies.tutoriallisteners.Main

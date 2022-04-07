@@ -1,0 +1,9 @@
+name: cmdtabcompletition
+author: kaua
+description: Command Tab Completition
+version: 1.0
+api-version: 1.16
+main: kaua.studies.cmdtabcompletition.Main
+
+commands:
+  tab:

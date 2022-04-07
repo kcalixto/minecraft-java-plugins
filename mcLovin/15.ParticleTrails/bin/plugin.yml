@@ -1,0 +1,6 @@
+name: particleTrails
+author: kaua
+description: Particle trails
+version: 1.0
+api-version: 1.16
+main: kaua.studies.particletrails.Main

@@ -1,0 +1,9 @@
+name: FlyCommand
+version: 1.0
+author: kaua
+main: kaua.studies.customessentials.Main
+description: My first Fly Plugin
+
+commands:
+  fly:
+    description: Fly command

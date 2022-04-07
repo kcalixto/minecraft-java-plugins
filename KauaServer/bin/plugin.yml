@@ -1,0 +1,12 @@
+name: KauaPlugin
+version: 0.1
+api-version: 1.16
+description: Kaua trying to apply everything he learned up to here
+main: kaua.studies.server.Main
+
+commands:
+  kit:
+  trail:
+  changetrail:
+  tools:
+  
